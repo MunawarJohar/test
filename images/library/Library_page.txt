@@ -1,0 +1,12 @@
+Computer vision:https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch
+Text Mining:https://github.com/PacktPublishing/Machine-Learning-Techniques-for-Text
+Forcasting:https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python
+Predictive modeling:https://github.com/PacktPublishing/XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis
+Network Science:https://academic.oup.com/book/27884?login=true
+Power-Bi:https://github.com/PacktPublishing?q=power+bi&type=all&language=&sort=
+machine learning:https://github.com/PacktPublishing?q=machine+learning&type=all&language=&sort=
+SQL: https://github.com/PacktPublishing?q=sql&type=all&language=&sort=
+support vector machine:https://github.com/PacktPublishing/Machine-Learning-A-Z-Support-Vector-Machine-with-Python-
+
+
+
